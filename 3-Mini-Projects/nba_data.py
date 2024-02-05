@@ -44,4 +44,5 @@ def get_stats():
         print(f"{i + 1}. {name} - {nickname} - {ppg}")
 
 
+get_scoreboard()
 get_stats()
